@@ -78,7 +78,7 @@ D. Y. Patil University, Ambi Pune • Vellore Institute of Technology, Vellore, 
   <a href="https://leetcode.com/u/atharvagai007/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/theatharvagai/theatharvagai/blob/main/RResume.pdf">
+  <a href="https://drive.google.com/file/d/1XrrcLCtYAyhJjVumU9p4FKCcUpotJ_dx/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0004-8092-7056">
