@@ -10,20 +10,6 @@ D. Y. Patil University, Ambi Pune • Vellore Institute of Technology, Vellore, 
 
 ---
 
-### 📄 Resume
-<p align="center">
-  <a href="https://github.com/theatharvagai/theatharvagai/blob/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Upload your resume screenshot and replace this link -->
-  <img src="https://via.placeholder.com/800x1000.png?text=Upload+Your+Resume+Preview+Here" width="70%" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,fastapi,mongodb,sqlite,docker,kubernetes,jenkins,git,github,linux" />
@@ -35,6 +21,7 @@ D. Y. Patil University, Ambi Pune • Vellore Institute of Technology, Vellore, 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=theatharvagai&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ### 🚀 Current Focus
@@ -51,6 +38,12 @@ D. Y. Patil University, Ambi Pune • Vellore Institute of Technology, Vellore, 
   </a>
   <a href="https://leetcode.com/u/atharvagai007">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/theatharvagai/theatharvagai/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/YOUR_ORCID_ID">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
   <a href="mailto:theatharvagai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
