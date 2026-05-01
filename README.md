@@ -33,10 +33,8 @@ D. Y. Patil University, Ambi Pune • Vellore Institute of Technology, Vellore, 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theatharvagai&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theatharvagai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=theatharvagai&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### 🚀 Current Focus
